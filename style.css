@@ -1,0 +1,42 @@
+body { 
+    text-align: center;
+}
+
+textarea {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.btn {
+    width: 100px;
+    height:40px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    opacity: .8;
+}
+
+.read {
+    background-color: green;
+}
+
+.write {
+    background-color: blue;
+}
+
+div {
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: yellow;
+}
+
+.delete {
+    background-color: red;
+}
